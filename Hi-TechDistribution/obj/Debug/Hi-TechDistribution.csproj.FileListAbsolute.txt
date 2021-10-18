@@ -1,0 +1,139 @@
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\Hi-TechDistribution.exe.config
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\Hi-TechDistribution.exe
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\Hi-TechDistribution.pdb
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.csprojAssemblyReference.cache
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.Employees.resources
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.MainMenu.resources
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.Properties.Resources.resources
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.csproj.GenerateResource.cache
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.csproj.CoreCompileInputs.cache
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.exe
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.pdb
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.SignUp.resources
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\HiTechLibrary.dll
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\HiTechLibrary.pdb
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.csproj.CopyComplete
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.MISEmpUser.resources
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.Users.resources
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.Customers.resources
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.SalesCustomer.resources
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.Books.resources
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.ChangePassword.resources
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.Orders.resources
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\EntityFramework.dll
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\EntityFramework.SqlServer.dll
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\EntityFramework.xml
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\EntityFramework.SqlServer.xml
+E:\LasalleCollege\Semester3\MultiTierApplication\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.InventoryController.resources
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.csprojAssemblyReference.cache
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.Books.resources
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.ChangePassword.resources
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.Customers.resources
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.Employees.resources
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.InventoryController.resources
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.MISEmpUser.resources
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.OrderedItems.resources
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.Orders.resources
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.SalesCustomer.resources
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.SignUp.resources
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.Users.resources
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.Properties.Resources.resources
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.csproj.GenerateResource.cache
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.csproj.CoreCompileInputs.cache
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.exe
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.pdb
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\Hi-TechDistribution.exe.config
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\Hi-TechDistribution.exe
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\Hi-TechDistribution.pdb
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\EntityFramework.dll
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\EntityFramework.xml
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\HiTechLibrary.pdb
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.csproj.CopyComplete
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.InvoicesForAccountant.resources
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.OrderClerks.resources
+C:\Users\navre\OneDrive\Desktop\FinalProject2019\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.BooksAuthors.resources
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\Hi-TechDistribution.exe.config
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\Hi-TechDistribution.exe
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\Hi-TechDistribution.pdb
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\EntityFramework.dll
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\EntityFramework.xml
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\HiTechLibrary.pdb
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.csprojAssemblyReference.cache
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.Books.resources
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.BooksAuthors.resources
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.ChangePassword.resources
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.Customers.resources
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.Employees.resources
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.InventoryController.resources
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.InvoicesForAccountant.resources
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.MISEmpUser.resources
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.OrderClerks.resources
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.OrderedItems.resources
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.Orders.resources
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.SalesCustomer.resources
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.SignUp.resources
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.Users.resources
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.Properties.Resources.resources
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.csproj.GenerateResource.cache
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.csproj.CoreCompileInputs.cache
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.csproj.CopyComplete
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.exe
+C:\Users\EDY\Desktop\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.pdb
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\Hi-TechDistribution.exe.config
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\Hi-TechDistribution.exe
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\Hi-TechDistribution.pdb
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\EntityFramework.dll
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\EntityFramework.xml
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\HiTechLibrary.pdb
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.csprojAssemblyReference.cache
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormBooks.resources
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormBooksAuthors.resources
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormChangePassword.resources
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormCustomers.resources
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormEmployees.resources
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormInventoryController.resources
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormMISEmpUser.resources
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormOrderClerks.resources
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormOrders.resources
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormSalesCustomer.resources
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.Properties.Resources.resources
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.csproj.GenerateResource.cache
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.csproj.CoreCompileInputs.cache
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.csproj.CopyComplete
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.exe
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.pdb
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormUsers.resources
+C:\Users\EDY\Desktop\hitechv2\HiTechProject no change\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormLogin.resources
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\Hi-TechDistribution.exe.config
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\Hi-TechDistribution.exe
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\Hi-TechDistribution.pdb
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\EntityFramework.dll
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\EntityFramework.xml
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\bin\Debug\HiTechLibrary.pdb
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.csprojAssemblyReference.cache
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormBooks.resources
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormBooksAuthors.resources
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormChangePassword.resources
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormCustomers.resources
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormEmployees.resources
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormInventoryController.resources
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormMISEmpUser.resources
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormOrderClerks.resources
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormOrders.resources
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormSalesCustomer.resources
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormLogin.resources
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.GUI.FormUsers.resources
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi_TechDistribution.Properties.Resources.resources
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.csproj.GenerateResource.cache
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.csproj.CoreCompileInputs.cache
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.csproj.CopyComplete
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.exe
+C:\Users\EDY\Desktop\Edward_Boca_Hi-TechDistribution\Hi-TechDistribution\Hi-TechDistribution\obj\Debug\Hi-TechDistribution.pdb

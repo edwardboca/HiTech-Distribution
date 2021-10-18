@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3cc0271a13b540f7bc608570122748b7" Name="Diagram1">
+        <EntityTypeShape EntityType="HiTechModel.Author" Width="1.5" PointX="3" PointY="12.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiTechModel.Book" Width="1.5" PointX="3" PointY="3.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiTechModel.BooksAuthor" Width="1.5" PointX="5.25" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiTechModel.Category" Width="1.5" PointX="0.75" PointY="4" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiTechModel.Customer" Width="1.5" PointX="0.75" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiTechModel.Employee" Width="1.5" PointX="0.75" PointY="10.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiTechModel.OrderItem" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiTechModel.Order" Width="1.5" PointX="3" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiTechModel.Publisher" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="HiTechModel.User" Width="1.5" PointX="5.75" PointY="7.125" IsExpanded="true" />
+        <AssociationConnector Association="HiTechModel.FK_BooksAuthor_Authors" ManuallyRouted="false" />
+        <AssociationConnector Association="HiTechModel.FK_Books_Categories" ManuallyRouted="false" />
+        <AssociationConnector Association="HiTechModel.FK_Books_Publishers" ManuallyRouted="false" />
+        <AssociationConnector Association="HiTechModel.FK_BooksAuthor_Books" ManuallyRouted="false" />
+        <AssociationConnector Association="HiTechModel.FK_OrderItems_Books" ManuallyRouted="false" />
+        <AssociationConnector Association="HiTechModel.FK_Orders_Customers" ManuallyRouted="false" />
+        <AssociationConnector Association="HiTechModel.FK_Orders_Employees" ManuallyRouted="false" />
+        <AssociationConnector Association="HiTechModel.FK_OrderItems_Orders" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
